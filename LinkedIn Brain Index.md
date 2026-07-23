@@ -31,8 +31,14 @@ account, written for founders & agency owners, and turning posts into booked cal
 
 ## ⚡ Winning content (researched)
 [[Winning Post Patterns]] — the 100+ engagement swipe file the agents now use
+[[Hook Payoff Integrity]] — the one law: payoff must match the shape the hook promised (the 2026-07-22 fix)
 
 [[Research Scout]] — agent 0, weekly trend + winning-post research that drives the schedule
+
+## 🎨 Design & media
+[[Brand Design System]] — the Green Room kit (colors, type, components) for carousels, banners,
+CTA/featured-post images. Full spec: `content/knowledge-base/brand-design-system.md`. Renderable
+decks: `carousels/green-room/`.
 
 ## 📧 Revenue (cold outreach)
 [[Cold Outreach Engine]] — the Gmail + Composio + HubSpot send/track/schedule system

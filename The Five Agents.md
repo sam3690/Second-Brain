@@ -11,8 +11,9 @@ Definitions: `content/agents/`. For recognition-led posts, swap agents 2–4 for
 
 ## Media briefs (since 2026-07-16)
 Every LinkedIn draft (like every X draft) ends with a `# Media brief` section inside its own
-markdown file: Type · Concept · Text on image (Canva headline slot, ~8 words) · Alt text · Fallback.
+markdown file: Type · Concept · Text on image (headline slot, ~8 words) · Alt text · Fallback.
 Carousel posts get slide-by-slide direction instead. Written by the X2 agent in LinkedIn mode
 (`content/agents/x/x2-media-brief.md`); the weekly `weekly-linkedin-zernio-drafts` routine enforces
 it. Agents never generate or attach the media — the brief is the spec Usama designs from, and the
-image step stays the human publishing gate.
+image step stays the human publishing gate. Visual spec for that text/image slot: [[Brand Design System]]
+(`content/knowledge-base/brand-design-system.md`) — replaces the earlier "Canva template" plan.

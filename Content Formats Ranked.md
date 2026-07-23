@@ -8,4 +8,4 @@ By 2026 algorithmic weight:
 5. ⚠️ **Polls** — downweighted; monthly at most.
 
 Kills reach: links in body · blurry/template carousels · re-sharing news without commentary · >3 hashtags · off-topic · obvious AI text · engagement bait.
-Skeletons: `content/templates/post-formats.md`. Related: [[Recognition Markers]]
+Skeletons: `content/templates/post-formats.md`. Related: [[Recognition Markers]] · [[Brand Design System]] (the visual kit carousels use)
