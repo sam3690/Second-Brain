@@ -43,3 +43,13 @@ decks: `carousels/green-room/`.
 ## 📧 Revenue (cold outreach)
 [[Cold Outreach Engine]] — the Gmail + Composio + HubSpot send/track/schedule system
 [[Lead List Quality]] — bounce-rate lesson from 2026-07-09, verify mailboxes not just domains
+
+## 💰 Revenue Playbooks (client acquisition, built 2026-07-23)
+[[Grand Slam Offer]] · [[First Client Sprint]] · [[Warm Reconnect ACA]] · [[Proof Assets]] ·
+[[Core Four Lead Gen]] · [[Objection Handling]] · [[Audience To Client Funnel]]
+Full specs: `content/knowledge-base/playbooks/`. Start at [[First Client Sprint]].
+
+## 📚 Market-Proven Frameworks (external swipe file)
+[[CLOSER Sales Framework]] · [[Cold Email 3Cs]] · [[Content OS Atomic Essays]] · [[AI Agency Niche Productization]]
+Full specs: `content/knowledge-base/frameworks/`. These feed the playbooks above; not to be
+followed blindly, only what fits the validated offer and ICP.
